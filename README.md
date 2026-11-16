@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <a href="media/nabit-keynote.mp4"><img src="images/video.jpg" alt="Watch the two-minute tour of Nabit (video)" width="100%"></a>
+  <a href="https://ozailabs.github.io/nabit/tour.html"><img src="images/video.jpg" alt="Watch the two-minute tour of Nabit (video)" width="100%"></a>
 </p>
 
 ![The Nabit Editor with a marked-up capture](images/editor-dark.png)
