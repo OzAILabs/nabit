@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <a href="media/nabit-keynote.mp4"><img src="images/video.jpg" alt="Watch the two-minute tour of Nabit (video)" width="100%"></a>
+</p>
+
 ![The Nabit Editor with a marked-up capture](images/editor-dark.png)
 
 ## Features
@@ -74,6 +78,9 @@ never sent anywhere unless you share them yourself. Text recognition runs on you
 
 1. Download the latest `Nabit-<version>-x64.msi` from [Releases](../../releases/latest).
 2. Run it. Nabit and the Nabit Editor appear in the Start menu.
+
+The installer is not yet code-signed, so Windows SmartScreen may say it comes from an unknown
+publisher. Choose **More info**, then **Run anyway**.
 
 Nabit needs Windows 10 version 2004 or later, or Windows 11, 64-bit. Everything else it needs is
 included in the installer.
