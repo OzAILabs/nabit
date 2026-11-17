@@ -10,7 +10,7 @@
 <p align="center">
   <a href="../../releases/latest"><b>Download for Windows</b></a> ·
   <a href="#features">Features</a> ·
-  <a href="#free-with-pro-for-9">Free, with Pro for $9</a> ·
+  <a href="#free-with-pro-for-899">Free, with Pro for $8.99</a> ·
   <a href="#install">Install</a> ·
   <a href="#for-it-teams">For IT teams</a>
 </p>
@@ -75,14 +75,14 @@ can all be set up the way you work.
 Nabit works on your PC. Your captures and recordings are kept in your own Library folder and are
 never sent anywhere unless you share them yourself. Text recognition runs on your PC too.
 
-## Free, with Pro for $9
+## Free, with Pro for $8.99
 
 Nabit is free: capture the screen, mark it up, blur, grab text, record, and share, with no time limit
 and no watermark.
 
 **Nabit Pro** adds scrolling and timed captures, capture presets, the webcam, Screen Draw and pointer
 effects in recordings, the Simplify, Cut Out, Magic Wand, Smart Move and Auto-Fill tools, effects,
-animation, video editing, templates, batch export, and sharing to FTP and other programs. It is $9,
+animation, video editing, templates, batch export, and sharing to FTP and other programs. It is $8.99,
 once, and every 1.x update is included.
 
 Every new install has all of Nabit Pro for its first 14 days. After that Nabit carries on free; Pro
