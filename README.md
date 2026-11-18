@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>Download for Windows</b></a> ·
+  <a href="https://apps.microsoft.com/detail/9PG1M2J775CJ"><b>Get it from the Microsoft Store</b></a> ·
+  <a href="../../releases/latest">Download the installer</a> ·
   <a href="#features">Features</a> ·
   <a href="#free-with-pro-for-899">Free, with Pro for $8.99</a> ·
   <a href="#install">Install</a> ·
@@ -87,9 +88,14 @@ once, and every 1.x update is included.
 
 Every new install has all of Nabit Pro for its first 14 days. After that Nabit carries on free; Pro
 features show a small **PRO** badge, and anything you made with them still opens, exports and shares.
-Nabit Pro will be sold in the Microsoft Store.
+Nabit Pro is bought inside the [Microsoft Store version of Nabit](https://apps.microsoft.com/detail/9PG1M2J775CJ).
 
 ## Install
+
+**From the Microsoft Store (recommended):** get [Nabit Screen Capture](https://apps.microsoft.com/detail/9PG1M2J775CJ). It installs and
+updates itself, and Nabit Pro is bought right inside it.
+
+**With the installer:**
 
 1. Download the latest `Nabit-<version>-x64.msi` from [Releases](../../releases/latest).
 2. Run it. Nabit and the Nabit Editor appear in the Start menu.
